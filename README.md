@@ -1,3 +1,4 @@
+<!doctype html>
 <html lang="pt-BR">
 <head>
   <meta charset="utf-8" />
@@ -58,10 +59,10 @@
     <header>
       <div class="thumb">
         <!-- Imagem representativa: banana bread / fit -->
-        <img src="https://images.unsplash.com/photo-1546554137-f86b9593a222?q=80&w=1400&auto=format&fit=crop&ixlib=rb-4.0.3&s=3b9e6bd4d3b2a9e4d9d8d2b6b8a7c6d8" alt="Bolo fit de banana fatiado com granola e chocolate" />
+        <img src="https://images.mrcook.app/recipe-image/0192c4ee-9806-76e1-8dd7-b73fdff89281?cacheKey=U3VuLCAxMiBKYW4gMjAyNSAwMzozODoyNCBHTVQ= " alt="Bolo fit de banana fatiado com granola e chocolate" />
       </div>
       <div>
-        <h1>Bolo fit de banana</h1>
+        <h1>BOLO FIT DE BANANA</h1>
         <p class="lead">Rendimento: 4 porções • Tempo aproximado: 25–30 min (airfryer)</p>
         <div class="meta">Ingredientes simples, opção com chocolate 80% e granola para crocância.</div>
         <div class="actions">
@@ -112,7 +113,7 @@
         <p class="meta">Equipamento: airfryer (ou forno convencional). Forminhas: silicone ou papel.</p>
       </aside>
     </div>
-</div>
+  </div>
 
   <script>
     function downloadHTML(){
