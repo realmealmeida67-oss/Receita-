@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="pt-BR">
 <head>
   <meta charset="utf-8" />
@@ -113,9 +112,7 @@
         <p class="meta">Equipamento: airfryer (ou forno convencional). Forminhas: silicone ou papel.</p>
       </aside>
     </div>
-
-    <footer>Receita compartilhada — criada para visualização em página única. Quer que eu gere uma versão em PDF ou traduza para inglês?</footer>
-  </div>
+</div>
 
   <script>
     function downloadHTML(){
