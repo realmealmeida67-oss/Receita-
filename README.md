@@ -59,7 +59,7 @@
     <header>
       <div class="thumb">
         <!-- Imagem representativa: banana bread / fit -->
-        <img src="https://images.mrcook.app/recipe-image/0192c4ee-9806-76e1-8dd7-b73fdff89281?cacheKey=U3VuLCAxMiBKYW4gMjAyNSAwMzozODoyNCBHTVQ= " alt="Bolo fit de banana fatiado com granola e chocolate" />
+        <img src="https://receitadaboa.com.br/wp-content/uploads/2024/09/Imagem-ilustrativa-de-bolinho-de-banana.webp" alt="Bolo fit de banana fatiado com granola e chocolate" />
       </div>
       <div>
         <h1>BOLO FIT DE BANANA</h1>
